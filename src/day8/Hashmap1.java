@@ -17,6 +17,7 @@ public class Hashmap1 {
 		for(String k:al.keySet()) {
 			System.out.println(k);
 		}
+		
 
 	}
 
